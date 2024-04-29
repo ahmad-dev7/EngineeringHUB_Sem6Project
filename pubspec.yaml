@@ -1,0 +1,67 @@
+name: myapp
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  animated_theme_switcher: ^2.0.10
+  lottie: ^3.1.0
+  day_night_themed_switch: ^1.0.0
+  http: ^1.2.1
+  dropdown_search: ^5.0.6
+  dropdown_button2: ^2.3.9
+  firebase_core: ^2.27.2
+  cloud_firestore: ^4.15.10
+  firebase_auth: ^4.18.0
+  firebase_storage: ^11.6.11
+  flashy_tab_bar2: ^0.0.10
+  salomon_bottom_bar: ^3.3.2
+  chat_bubbles: ^1.6.0
+  intl: ^0.19.0
+  animated_visibility: ^0.0.4
+  floating_action_bubble: ^1.1.4
+  font_awesome_flutter: ^10.7.0
+  modal_bottom_sheet: ^3.0.0
+  google_generative_ai: ^0.2.2
+  file_picker:
+  flutter_chat_ui: ^1.6.12
+  flutter_chat_types: ^3.6.2
+  dotted_border: ^2.1.0
+  contained_tab_bar_view: ^0.8.0
+  dynamic_height_grid_view: ^0.0.4
+  flutter_cached_pdfview: ^0.4.2
+  liquid_progress_indicator_v2: ^0.5.0
+  flutter_linkify: ^6.0.0
+  bottom_sheet: ^4.0.2
+  url_launcher: ^6.2.5
+  image_card: ^0.0.4
+  rounded_loading_button_plus: ^3.0.1
+  drop_shadow: ^0.1.0
+  responsive_framework: ^1.4.0
+  sidebarx: ^0.16.3
+  easy_dashboard: ^0.0.2
+  flutter_profile_picture: ^2.0.0
+  image_picker: ^1.1.0
+  youtube_video_player:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/

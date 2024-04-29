@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212445563827",
+    "project_id": "engineeringhub-72946",
+    "storage_bucket": "engineeringhub-72946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212445563827:android:792c99d2870f3c572459c6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTSsvtBeGZl7CSRW-WvvWEO4b2k_WOytE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
