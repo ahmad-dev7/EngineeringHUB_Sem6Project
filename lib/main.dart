@@ -34,9 +34,7 @@ class MyApp extends StatelessWidget {
           ),
           debugShowCheckedModeBanner: false,
           theme: myTheme,
-          home: FirebaseAuth.instance.currentUser == null
-              ? const LoginScreen()
-              : const LoadData(),
+          home: FirebaseAuth.instance.currentUser == null ? const LoginScreen() : const LoadData(),
         );
       },
     );
